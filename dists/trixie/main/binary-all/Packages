@@ -2,11 +2,11 @@ Package: xrtix-release
 Version: 0.1.0
 Architecture: all
 Maintainer: Xrtix OS Lead Developer HatD3V
-Filename: pool/main/xrtix-release_0.1.0_all.deb
+Filename: pool/main/xrtix-release_0.1.1_all.deb
 Size: 892
-MD5sum: e8c440f7b3445bb66f75213afee0e0ce
-SHA1: f7df07c0cb2dbcf2e8bb4b2f3dbc982e8c2a3eee
-SHA256: e76553f9f456e9d8589daa3c951288b1b719c03dcf73be66e4572a7612e0f6e8
+MD5sum: a51042469ad3619e134db1249397a90c
+SHA1: 5338f53b1017c941f89a690c833157282287f63d
+SHA256: 4399243eca8b22804a14041b2b392df5babbce08510c6269bed73c6e6b6dcbbc
 Section: misc
 Priority: optional
 Description: Xrtix OS release information and repository configuration

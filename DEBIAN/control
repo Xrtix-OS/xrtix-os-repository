@@ -1,0 +1,7 @@
+Package: xrtix-release
+Version: 0.1.1
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Xrtix OS Team
+Description: Xrtix OS release information
